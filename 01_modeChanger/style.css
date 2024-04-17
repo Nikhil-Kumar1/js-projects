@@ -1,0 +1,16 @@
+.dark{
+    background-color: black;
+    color: #ffff;
+}
+
+.white{
+    background-color: white;
+    color:black
+}
+
+.btn{
+    background-color: bisque;
+    position: fixed;
+    border-radius: 20px;
+    margin-top: 250px;
+}
